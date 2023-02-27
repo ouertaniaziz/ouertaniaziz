@@ -23,8 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/aziz ouertani](https://www.linkedin.com/in/aziz-ouertani-2091871b2/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aziz ouertani" height="30" width="40" /></a>
-<a href="[https://fb.com/ouertani aziz](https://www.facebook.com/werteniaziz)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ouertani aziz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aziz-ouertani-2091871b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aziz ouertani" height="30" width="40" /></a>
+<a href="https://www.facebook.com/werteniaziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ouertani aziz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
